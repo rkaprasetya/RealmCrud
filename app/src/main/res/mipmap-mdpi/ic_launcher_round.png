@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="NewsListTest" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.0.0" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.0.0" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/test/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/src/testDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar;C:/Users/Raka/.gradle/caches/transforms-2/files-2.1/d34f74f6704a6acdf56a410379994aec/jetified-kotlin-android-extensions-runtime-1.3.72.jar;C:/Users/Raka/.gradle/caches/transforms-2/files-2.1/91cc41ce81a6ba8f492c82a4f809d71c/jetified-lifecycle-viewmodel-ktx-2.1.0-beta01-api.jar;C:/Users/Raka/.gradle/caches/transforms-2/files-2.1/b385f8789d503caed7f5b5351f73aa6d/jetified-core-ktx-1.3.0-api.jar;C:/Users/Raka/.gradle/caches/transforms-2/files-2.1/ecd33e10877e3c89df0d2104f8f7d901/navigation-runtime-ktx-2.0.0-api.jar;C:/Users/Raka/.gradle/caches/transforms-2/files-2.1/2e6ebfd54695a3551fde0f0e8307a77e/jetified-kotlinx-coroutines-android-1.1.1.jar;C:/Users/Raka/.gradle/caches/transforms-2/files-2.1/edb817dccf8b9c185a66b565d8afdda5/navigation-common-ktx-2.0.0-api.jar;C:/Users/Raka/.gradle/caches/transforms-2/files-2.1/8d9a4ec79ec
